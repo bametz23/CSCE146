@@ -8,3 +8,8 @@
 
 <i> Homework, lab assignments, and other misc data </i>
 <h2> Grade: A
+  <br></br>
+<p align="left">
+  <img src="http://www.dcoss.org/dcoss12/resources/usc.jpg" width="200">
+ </p>
+
